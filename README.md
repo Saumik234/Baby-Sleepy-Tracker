@@ -1,20 +1,15 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
 
-# Run and deploy your AI Studio app
+# Baby Sleepy Tracker 👶💤
 
-This contains everything you need to run your app locally.
+**Baby Sleepy Tracker** is a smart web-based interface designed to help parents track and understand their baby's sleep patterns effectively.
 
-View your app in AI Studio: https://ai.studio/apps/drive/1DGdSlSKMt9k2vKtDb0s_5xfRlVRR4XGE
+### Key Features:
+* **User-Friendly Interface:** A simple and intuitive design for easy navigation.
+* **Image Management:** Specialized interface for uploading and managing images.
+* **Compression Settings:** Custom settings to compress and optimize images before uploading.
 
-## Run Locally
+### Project Preview:
+![Interface Screenshot](screen.png)
 
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+### Live Demo:
+You can view the live project here: [baby-sleepy-tracker.vercel.app](https://baby-sleepy-tracker.vercel.app)
